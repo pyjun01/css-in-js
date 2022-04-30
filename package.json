@@ -1,0 +1,20 @@
+{
+  "name": "css-in-js-library",
+  "version": "0.0.1",
+  "description": "css-in-js library with parcel-css & sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyjun01/css-in-js-library.git"
+  },
+  "keywords": ["css-in-js", "parcel-css", "sass"],
+  "author": "pyjun01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyjun01/css-in-js-library/issues"
+  },
+  "homepage": "https://github.com/pyjun01/css-in-js-library#readme"
+}
