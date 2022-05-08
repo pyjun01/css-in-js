@@ -1,1 +1,1 @@
-# CSS in JS library
+# DEMO CSS-in-JS
